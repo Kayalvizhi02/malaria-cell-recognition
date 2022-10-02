@@ -41,10 +41,6 @@ Evaluate the model with the testing data
 
 ### STEP 7:
 
-Fit the model
-
-### STEP 8:
-
 Plot the performance plot
 
 
