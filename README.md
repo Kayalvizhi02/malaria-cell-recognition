@@ -162,19 +162,19 @@ else:
 
 ### Training Loss, Validation Loss Vs Iteration Plot
 
-<img width="435" alt="img" src="https://user-images.githubusercontent.com/75413726/193418845-2498a58b-0835-4929-9074-c282d0d38fd9.png">
+<img width="435" alt="img" src="https://user-images.githubusercontent.com/75413726/193617722-b8f953e8-acdc-4dcb-bff9-d24c282f5d93.png">
 
 ### Classification Report
 
-<img width="550" alt="img" src="https://user-images.githubusercontent.com/75413726/193418864-680ba3f1-92d4-4574-82fa-160c423f5599.png">
+<img width="550" alt="img" src="https://user-images.githubusercontent.com/75413726/193618002-549db9e1-545c-4909-92a3-cc337e525445.png">
 
 ### Confusion Matrix
 
-<img width="494" alt="img" src="https://user-images.githubusercontent.com/75413726/193418889-4777b538-f64b-47a8-9ebb-f8f43d387f32.png">
+<img width="494" alt="img" src="https://user-images.githubusercontent.com/75413726/193618171-47e35fb4-35c7-4b3a-bd13-90c1b679ec5e.png">
 
 ### New Sample Data Prediction
 
-<img width="448" alt="img" src="https://user-images.githubusercontent.com/75413726/193418902-0e64c0df-6995-4832-9989-d9ea742ff87c.png">
+<img width="448" alt="img" src="https://user-images.githubusercontent.com/75413726/193618354-52709e8a-df36-4051-af51-a3cb2634fc3f.png">
 
 ## RESULT:
 
