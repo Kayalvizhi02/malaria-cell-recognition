@@ -13,7 +13,7 @@ Malaria dataset of 27,558 cell images with an equal number of parasitized and un
 
 ## Neural Network Model:
 
-![img](https://user-images.githubusercontent.com/75413726/193419206-df8fcb74-0faf-47e0-9c85-2f88adb09588.png)
+![model](https://user-images.githubusercontent.com/75413726/194883612-837bad10-278f-459a-9f65-3999efd06cf2.png)
 
 ## DESIGN STEPS:
 
