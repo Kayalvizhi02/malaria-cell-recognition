@@ -1,4 +1,7 @@
-# Deep Neural Network for Malaria Infected Cell Recognition
+## EXP.NO : 4
+## DATE :
+
+# <p align="center"> Deep Neural Network for Malaria Infected Cell Recognition</p>
 
 ## AIM:
 
@@ -47,8 +50,8 @@ Fit the model and predict the sample input.
 ## PROGRAM:
 ```python
 
-# Developed By : KAYALVIZHI M
-# Register Number : 212220230024
+#### Developed By : KAYALVIZHI M
+#### Register Number : 212220230024
 
 import os
 import pandas as pd
